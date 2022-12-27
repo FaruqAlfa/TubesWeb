@@ -78,24 +78,23 @@ if (!isset($_SESSION['username'])) {
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="nav navbar-nav ml-auto">
                             <li class="nav-item active">
-                                <a class="nav-link" href="#">Page</a>
+                                <a class="nav-link" href="#"></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
+                                <a class="nav-link" href="#"></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
+                                <?php
+                                echo "Selamat Datang " . $_SESSION['username'];
+                                ?>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
+                                <a class="nav-link" href="#"></a>
                             </li>
                         </ul>
                     </div>
                 </div>
             </nav>
-            <?php
-            echo "Selamat Datang " . $_SESSION['username'];
-            ?>
             <div class="row">
                 <div class="col-sm-6">
                     <div class="card">

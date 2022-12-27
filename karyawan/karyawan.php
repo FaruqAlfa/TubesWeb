@@ -41,7 +41,7 @@
                     <a href="../danaMasuk/danaMasuk.php">Dana Masuk</a>
                 </li>
                 <li>
-                    <a href="#">Dana Keluar</a>
+                    <a href="../danaKeluar/danaKeluar.php">Dana Keluar</a>
                 </li>
                 <li>
                     <a href="karyawan/karyawan.php">Karyawan</a>

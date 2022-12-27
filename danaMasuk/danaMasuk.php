@@ -38,7 +38,7 @@
                     <a href="../indexAdmin.php">Dashboard</a>
                 </li>
                 <li>
-                    <a href="#pageSubmenu">Dana Masuk</a>
+                    <a href="danaMasuk.php">Dana Masuk</a>
                 </li>
                 <li>
                     <a href="../danaKeluar/danaKeluar.php">Dana Keluar</a>
